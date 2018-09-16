@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="superGame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/superGame_jar/superGame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

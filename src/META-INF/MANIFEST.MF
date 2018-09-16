@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+sweeper.Main-Class: sweeper.Main
+
